@@ -3,6 +3,8 @@
 Stack Calculator, infix to postfix expression, written in C++.
 
 TODO: 
-* evaluation of postfix expression. <br />
 * handling parentheses. <br />
-* handling multi-digit numbers 
+* more informative error handling. <br />
+* *evaluation of postfix expression -- WORKING but could use some more testing.* <br />
+* *handling multi-digit numbers -- WORKING but could use some more testing.* <br />
+
